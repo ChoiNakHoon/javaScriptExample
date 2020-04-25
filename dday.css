@@ -8,7 +8,7 @@
     margin: 0 auto;
     border: 1px solid #ccc;
     border-radius: 2%;
-    box-shadow: 2px 2px 5px #333;
+    box-shadow: 2px 2px 5px fuchsia;
 }
 
 .day1 {
@@ -34,7 +34,7 @@
     margin: 60px auto 0 auto;
     padding-left: 15px;
     height: 40px;
-    background: #747474;
+    background:deeppink;
     color: #fff;
     font-size: 1.2em;
     line-height: 40px;
